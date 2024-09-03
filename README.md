@@ -23,7 +23,7 @@ Kodo zaženemo tako da:
 
 ### Generiranje .tex datoteke
 
-`.tex` datoteka je generirana s skripto `\build\makedoc.jl`, ki uporablja paket `Weave.jl`.
+`.tex` datoteka je generirana s skripto `\docs\makedoc.jl`, ki uporablja paket `Weave.jl`, v tem direktoriju se nahaja tudi poročilo.
 
 
 
